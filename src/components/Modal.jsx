@@ -1,5 +1,5 @@
 const Modal = () => {
-    return <h1>Modal</h1>
-}
+  return <h1>Modal</h1>;
+};
 
-export default Modal 
+export default Modal;
